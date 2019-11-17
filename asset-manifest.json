@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wolf_classifier/static/css/main.86a655b7.chunk.css",
+    "main.js": "/wolf_classifier/static/js/main.fa735a33.chunk.js",
+    "main.js.map": "/wolf_classifier/static/js/main.fa735a33.chunk.js.map",
+    "runtime~main.js": "/wolf_classifier/static/js/runtime~main.f962cc77.js",
+    "runtime~main.js.map": "/wolf_classifier/static/js/runtime~main.f962cc77.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/wolf_classifier/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.9546dab0.chunk.js": "/wolf_classifier/static/js/2.9546dab0.chunk.js",
+    "static/js/2.9546dab0.chunk.js.map": "/wolf_classifier/static/js/2.9546dab0.chunk.js.map",
+    "index.html": "/wolf_classifier/index.html",
+    "precache-manifest.8334f4adfba32c5203c900d006c16d5c.js": "/wolf_classifier/precache-manifest.8334f4adfba32c5203c900d006c16d5c.js",
+    "service-worker.js": "/wolf_classifier/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/wolf_classifier/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.86a655b7.chunk.css.map": "/wolf_classifier/static/css/main.86a655b7.chunk.css.map"
+  }
+}
